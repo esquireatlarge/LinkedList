@@ -7,7 +7,7 @@ class Item
 public:
 
     Item(T data)
-        : m_data(data), m_next(NULL)
+        : m_data(data), m_next(nullptr)
     {
     }
 
